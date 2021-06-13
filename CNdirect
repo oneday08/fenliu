@@ -16,3 +16,7 @@ host-suffix,tu.tianzuida.com,direct
 host-keyword,crisp.chat,direct
 host-suffix,zz.ci,direct
 host-keyword,cctv,direct
+host-suffix, mob.com, Final
+host-suffix, mihoyo.com, Final
+host-suffix, yuanshen.com, Final
+ip-cidr, 47.0.0.0/0, direct
