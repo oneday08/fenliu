@@ -3,3 +3,6 @@ ip-cidr, 47.90.0.0/14, game
 ip-cidr, 47.91.0.0/14, game
 ip-cidr, 47.252.0.0/14, game
 ip-cidr, 47.253.0.0/14, game
+host-suffix, mob.com, game
+host-suffix, mihoyo.com, game
+host-suffix, yuanshen.com, game
