@@ -16,3 +16,4 @@ host-suffix,tu.tianzuida.com,direct
 host-keyword,crisp.chat,direct
 host-suffix,zz.ci,direct
 host-keyword,cctv,direct
+ip-cidr,239.255.255.250/32,direct
