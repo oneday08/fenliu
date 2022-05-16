@@ -1,4 +1,4 @@
-#自己看劇遇到的網站
+#自己看劇遇到的網站，規則修正
 host-suffix,m.zuixu.com,reject
 host-suffix,m.ppkao.com,reject
 host-suffix,www.xmj.app,direct
@@ -46,3 +46,4 @@ host, img.jindong.org, direct
 host-suffix, bdzybf7.com, direct
 host, mtur.xkmnbt.xyz, direct
 host, yun.66dm.net, direct
+host-keyword, apple.cn, direct
