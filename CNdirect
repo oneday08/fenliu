@@ -17,3 +17,26 @@ host-keyword,crisp.chat,direct
 host-suffix,zz.ci,direct
 host-keyword,cctv,direct
 ip-cidr,239.255.255.250/32,direct
+host, vip.jiexizhuanyong.com, direct
+host-suffix, sdk.alibaba.com.ailbaba.me, direct
+host-suffix, img.52swat.cn, reject
+host-suffix, xk.3v7.net, reject
+host-suffix, ishuyin.com, direct
+host, sod.bunediy.com, direct
+host-suffix, 34008823.com, reject
+host-suffix, dious.cc, direct
+host, ocsp.sectigo.com, direct
+host, new.iskcd.com, direct
+host, vod2.fsvod2.com, direct
+host, pic.huishij.com, direct
+host, r3.o.lencr.org, direct
+host, cdn.04pic.com, direct
+host, cdn.jsdelivr.net, direct
+host-suffix, tvtvgood.com, direct
+host-suffix, zhuijuapp.com, direct
+host-keyword, gangju5.cc, direct
+host-suffix, zxzjtv.com, direct
+host-suffix, zxzj.me, direct
+host-suffix, o8tv.com, direct
+host-suffix, xmfans.me, direct
+host-suffix, yhdmp.live, direct
