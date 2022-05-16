@@ -32,7 +32,6 @@ host, vod2.fsvod2.com, direct
 host, pic.huishij.com, direct
 host, r3.o.lencr.org, direct
 host, cdn.04pic.com, direct
-host, cdn.jsdelivr.net, direct
 host-suffix, tvtvgood.com, direct
 host-suffix, zhuijuapp.com, direct
 host-keyword, gangju5.cc, direct
