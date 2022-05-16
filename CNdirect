@@ -17,7 +17,6 @@ host-suffix,tu.tianzuida.com,direct
 host-keyword,crisp.chat,direct
 host-suffix,zz.ci,direct
 host-keyword,cctv,direct
-ip-cidr,239.255.255.250/32,direct
 host, vip.jiexizhuanyong.com, direct
 host-suffix, sdk.alibaba.com.ailbaba.me, direct
 host-suffix, img.52swat.cn, reject
