@@ -29,7 +29,7 @@ host, ocsp.sectigo.com, direct
 host, new.iskcd.com, direct
 host, vod2.fsvod2.com, direct
 host, pic.huishij.com, direct
-host, r3.o.lencr.org, direct
+;host, r3.o.lencr.org, direct
 host, cdn.04pic.com, direct
 host-suffix, tvtvgood.com, direct
 host-suffix, zhuijuapp.com, direct
