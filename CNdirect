@@ -25,7 +25,7 @@ host-suffix, ishuyin.com, direct
 host, sod.bunediy.com, direct
 host-suffix, 34008823.com, reject
 host-suffix, dious.cc, direct
-host, ocsp.sectigo.com, direct
+;host, ocsp.sectigo.com, direct
 host, new.iskcd.com, direct
 host, vod2.fsvod2.com, direct
 host, pic.huishij.com, direct
@@ -45,3 +45,4 @@ host-suffix, bdzybf7.com, direct
 host, mtur.xkmnbt.xyz, direct
 host, yun.66dm.net, direct
 host-keyword, apple.cn, direct
+host-keyword, asuscomm, direct
